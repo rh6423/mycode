@@ -1,0 +1,7 @@
+OS_AUTH_URL=<url-to-openstack-identity>
+OS_IDENTITY_API_VERSION=3
+OS_PROJECT_NAME=<project-name>
+OS_PROJECT_DOMAIN_NAME=<project-domain-name>
+OS_USERNAME=<username>
+OS_USER_DOMAIN_NAME=<user-domain-name>
+OS_PASSWORD=<password>  # (optional-- but we'll set it in ours)
